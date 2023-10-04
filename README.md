@@ -56,7 +56,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Remember to replace the placeholders with your actual content. This README template should give you a solid foundation to start with. Feel free to customize it further based on the specific details of your project.
